@@ -1,99 +1,80 @@
-# Workflow: AI Search Visibility Optimization
+# Workflow
 
-## Overview
+## Principle
 
-This document outlines the workflow for optimizing website visibility in AI search systems. Unlike traditional SEO approaches that begin with technical implementation, this framework starts with business strategy to ensure that technical outputs serve real commercial objectives.
+This framework starts from business strategy, not from technical files.
 
-## Workflow Principles
+The goal is to build AI-search visibility that supports real business growth, stronger positioning, and clearer authority — not just to document what already exists on the site.
 
-This framework begins with business strategy, not technical files. The objective is to build AI-search visibility that supports genuine business growth, strengthens market positioning, and establishes clear authority — rather than simply documenting existing site content.
+## Working logic
 
-## Implementation Sequence
+Use this sequence:
 
-Follow this sequential workflow:
+1. Define the business goal.
+2. Clarify the brand position.
+3. Define the ICP.
+4. Review the existing content units.
+5. Identify strategic gaps.
+6. Design the entity, hub, and conversion structure.
+7. Prepare `llms.txt` and `llms-full.txt`.
+8. Publish the files to the site root.
+9. Optimize the website after launch.
+10. Review how AI systems describe and recommend the brand.
 
-1. Define business goals — Identify specific commercial objectives (lead generation, brand awareness, revenue targets)
-2. Clarify brand position — Articulate unique value proposition and market differentiation
-3. Define Ideal Customer Profile (ICP) — Document target audience characteristics, pain points, and search behavior
-4. Review existing content — Audit current content inventory and performance metrics
-5. Identify strategic gaps — Pinpoint missing topics, weak coverage areas, and competitive opportunities
-6. Design content architecture — Structure entity, hub, and conversion frameworks
-7. Prepare LLMS files — Generate llms.txt and llms-full.txt documentation
-8. Publish to site root — Deploy files to website root directory
-9. Optimize post-launch — Refine website based on performance data
-10. Monitor AI interpretation — Track how AI systems describe and recommend the brand
+## Why this order matters
 
-## Rationale for Sequence
+A technical file can describe a website, but it cannot create strategy.
 
-A technical file can describe a website, but it cannot create strategy. If business goals, positioning, and ICP remain unclear, documentation only formalizes existing confusion. Similarly, weak content architecture produces weak documentation. Strategic work must precede technical implementation so that the final output reflects clear commercial and editorial direction.
+If the business goal, positioning, and ICP are unclear, the file will only formalize confusion. If the content structure is weak, the file will only mirror that weakness. The strategic work must come first so the technical layer reflects a clear commercial and editorial direction.
 
-## Pre-Implementation Assessment
+## What to evaluate first
 
-Before creating any documentation, evaluate:
+Before writing any file, assess:
+- what the business is trying to achieve,
+- who the brand is for,
+- what the brand should be known for,
+- which topics it should own,
+- which pages should drive trust,
+- which pages should drive conversion,
+- which gaps must be closed to support growth.
 
-- Business objectives — What is the organization trying to achieve?
-- Target audience — Who is the brand for?
-- Brand reputation — What should the brand be known for?
-- Topic ownership — Which topics should the brand dominate?
-- Trust drivers — Which pages should build credibility?
-- Conversion drivers — Which pages should generate business?
-- Growth gaps — What content is missing to support expansion?
+## How to work with the site
 
-## Site Architecture Review
+After the strategy is clear, review the current website:
+- homepage,
+- about page,
+- author pages,
+- service pages,
+- topic hubs,
+- podcast pages,
+- pillar articles,
+- supporting articles.
 
-Once strategy is established, audit the existing website structure:
+Map each page to one of three roles:
+- authority,
+- discovery,
+- conversion.
 
-| Page Type | Examples |
-|-----------|----------|
-| Homepage | Primary entry point |
-| About page | Brand narrative |
-| Author pages | Expertise signals |
-| Service pages | Offering details |
-| Topic hubs | Category overviews |
-| Podcast pages | Media content |
-| Pillar articles | Comprehensive guides |
-| Supporting articles | Supplementary content |
+Then improve the architecture so the most important entities and topics are easy for both humans and AI systems to understand.
 
-## Page Classification Framework
+## Post-launch rule
 
-Categorize each page into one of three roles:
+Do not stop after publishing `llms.txt`.
 
-- Authority — Establishes expertise and trust (about pages, author bios, pillar content)
-- Discovery — Drives traffic and awareness (topic hubs, podcast pages, supporting articles)
-- Conversion — Generates business outcomes (service pages, product pages, contact forms)
+The real work begins after launch:
+- strengthen internal links,
+- improve author and entity signals,
+- create missing hub pages,
+- close content gaps,
+- align pages with business intent,
+- verify how AI systems interpret the brand.
 
-## Architecture Optimization
+## Strategic standard
 
-After classification, restructure the architecture to ensure:
-
-- Clear entity relationships
-- Logical topic hierarchies
-- Obvious navigation paths
-- Strong internal linking
-- Distinct signal differentiation for AI systems
-
-## Post-Launch Requirements
-
-Do not cease activity after publishing llms.txt files. Post-launch optimization includes:
-
-- Strengthening internal link networks
-- Enhancing author and entity signals
-- Creating missing hub pages
-- Closing identified content gaps
-- Aligning pages with business intent
-- Verifying AI system interpretation of the brand
-
-## Quality Standards
-
-The final output must reflect a business that is:
-
-- Clearly positioned — Distinct market identity
-- Easy to understand — Clear messaging and structure
-- Credible to cite — Authoritative and trustworthy
-- Structured for discovery — Optimized for both AI and human navigation
-- Aligned with revenue goals — Commercial outcomes prioritized
-- Ready for AI search — Prepared for evolving search technologies
-
----
-
-This workflow ensures that technical implementation serves strategic business objectives rather than existing in isolation.
+The final output should reflect a business that is:
+- clearly positioned,
+- easy to understand,
+- credible to cite,
+- structured for discovery,
+- aligned with revenue goals,
+- ready for AI search.
